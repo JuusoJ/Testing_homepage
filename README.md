@@ -9,14 +9,15 @@ this demo introduces the basic Robot Framework test data syntax, how tests
 are executed, and how logs and reports look like.
 
 
-### Markdown
+### Run tests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdow
 
 pip install -r requirements.txt
 
+```
 # Python3
 ## Header 2
 ### Header 3
@@ -49,4 +50,10 @@ Run ``robot --help`` for more information about the command line usage and see
 
 
 
-```
+
+Consult SeleniumLibrary_ documentation about supported browsers.
+
+.. _Robot Framework: http://robotframework.org
+.. _SeleniumLibrary: https://github.com/robotframework/SeleniumLibrary
+.. _Python: http://python.org
+.. _pip: http://pip-installer.org
