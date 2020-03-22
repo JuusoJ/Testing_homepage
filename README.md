@@ -9,7 +9,7 @@ this demo introduces the basic Robot Framework test data syntax, how tests
 are executed, and how logs and reports look like.
 
 
-### Run tests
+### Install requirements
 
 
 
@@ -28,8 +28,11 @@ pip install -r requirements.txt
 1. Numbered
 2. List
 
-Running tests
+### Running tests from command line
 -------------
+```markdown
+robot -d Ailea_fi/results Ailea_fi/tests/Ailea_fi.robot
+```
 
 The `test cases`_ are located in the ``login_tests`` directory. They can be
 executed using the ``robot`` command::
@@ -53,7 +56,7 @@ Run ``robot --help`` for more information about the command line usage and see
 
 Consult SeleniumLibrary_ documentation about supported browsers.
 
-.. _Robot Framework: http://robotframework.org
-.. _SeleniumLibrary: https://github.com/robotframework/SeleniumLibrary
-.. _Python: http://python.org
-.. _pip: http://pip-installer.org
+ _Robot Framework: http://robotframework.org
+_SeleniumLibrary: https://github.com/robotframework/SeleniumLibrary
+_Python: http://python.org
+_pip: http://pip-installer.org
