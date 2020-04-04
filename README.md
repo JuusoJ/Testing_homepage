@@ -12,14 +12,14 @@ are executed, and how logs and reports look like.
 ### Install requirements
 
 
-
 ```markdow
 
 pip install -r requirements.txt
 
 ```
-# Python3
-## Header 2
+# Python3.7=<
+Have Python 3.7.0 or newer version of Python installed on your computer.
+## 
 ### Header 3
 
 - Bulleted
