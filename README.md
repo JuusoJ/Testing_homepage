@@ -19,6 +19,7 @@ pip install -r requirements.txt
 ```
 # Python3.7=<
 Have Python 3.7.0 or newer version of Python installed on your computer.
+
 ## 
 ### Header 3
 
@@ -33,6 +34,7 @@ Have Python 3.7.0 or newer version of Python installed on your computer.
 ```markdown
 robot -d Ailea_fi/results Ailea_fi/tests/Ailea_fi.robot
 ```
+Result and log files should emerge to logs folder
 
 The `test cases`_ are located in the ``login_tests`` directory. They can be
 executed using the ``robot`` command::
