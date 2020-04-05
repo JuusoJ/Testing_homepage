@@ -53,6 +53,7 @@ Run ``robot --help`` for more information about the command line usage and see
 
 Consult SeleniumLibrary_ documentation about supported browsers.
 
+Read more:
 _Robot Framework: http://robotframework.org
 _SeleniumLibrary: https://github.com/robotframework/SeleniumLibrary
 _Python: http://python.org
